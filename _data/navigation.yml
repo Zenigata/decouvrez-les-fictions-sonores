@@ -1,9 +1,16 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Détail"
+    url: https://airtable.com/shrHDeS1EtDGEfRjt
+    description: Pour voir le détail des choix de la communauté.
+  - title: "Liste"
+    url: https://airtable.com/shr3sBTOU4AKPRuvN
+    description: La liste complète des fictions disponibles à la sélection.
+  - title: "SagaList"
+    url: https://sagalist.silvercherry.fr/
+    description: Une autre liste pour trouver encore plus d'histoires.
+  - title: "Netophonix"
+    url: https://forum.netophonix.com/sagaslist.php
+    description: Le listing généreux du Netophonix.
+  - title: "Clator"
+    url: https://forum.netophonix.com/ftopic17700.html
+    description: La liste de Clator.
